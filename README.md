@@ -1,1 +1,1 @@
-# Gen_ai-projects
+# smart-library
